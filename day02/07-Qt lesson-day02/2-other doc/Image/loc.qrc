@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>boy.gif</file>
+        <file>butterfly.png</file>
+        <file>butterfly1.png</file>
+        <file>c++father.jpg</file>
+        <file>c++study.jpg</file>
+        <file>chatQQ.gif</file>
+        <file>down.png</file>
+        <file>face.png</file>
+        <file>Frame.jpg</file>
+        <file>loc.qrc</file>
+        <file>Luffy.png</file>
+        <file>LuffyQ.png</file>
+        <file>mario.gif</file>
+        <file>myheart.png</file>
+        <file>OnePiece.png</file>
+        <file>QT.jpg</file>
+        <file>qt2.png</file>
+        <file>Sunny.jpg</file>
+        <file>sunny.png</file>
+        <file>up.png</file>
+    </qresource>
+</RCC>
